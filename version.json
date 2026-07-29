@@ -3,7 +3,7 @@
   "files": [
     {
       "path": "mods/examplemod.jar",
-      "url": "https://raw.githubusercontent.com/PapyNick/mylauncher-updates/main/files/mods/examplemod.jar",
+      "url": "https://raw.githubusercontent.com/PapyNick/mylauncher-updates/main/files/mods/example.jar",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     }
   ]
