@@ -1,0 +1,20 @@
+{
+  "launcher_version": "1.0.1",
+  "files": [
+    {
+      "path": "config/examplemod-config.toml",
+      "url": "https://raw.githubusercontent.com/PapyNick/mylauncher-updates/main/files/config/examplemod-config.toml",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "mods/example.jar",
+      "url": "https://raw.githubusercontent.com/PapyNick/mylauncher-updates/main/files/mods/example.jar",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "url": "https://raw.githubusercontent.com/PapyNick/mylauncher-updates/main/files/mods/TreeChop-1.20.1-forge-0.19.0-fixed.jar",
+      "sha256": "219fbe5bf8d862dc7b524ca5a0151f66bba4d53a01010858e136a9e8c4d55d4f"
+    }
+  ]
+}
